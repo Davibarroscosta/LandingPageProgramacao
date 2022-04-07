@@ -1,5 +1,5 @@
 
- ## Landing Page: Proprogramming Course
+ ## Landing Page: Programming Course
  
 A Landing Page created from a video from the Alexandre Saints channel, with changes in the design
  
