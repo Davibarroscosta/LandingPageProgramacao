@@ -16,6 +16,4 @@ Aqui estão algumas tecnologias usadas
 * HTML
 * CSS
 
- ## Link da Landing Page
  
-https://file:///C:/Users/davib/OneDrive/Documentos/MeuProjetos/Landing-Page-Programmer/Programmer%20Landing%20Page/index.html
